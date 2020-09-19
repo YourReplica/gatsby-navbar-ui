@@ -31,9 +31,10 @@ gatsby new yourbusinessname https://github.com/v4iv/gatsby-starter-business.git
 
 ## Available Scripts
 
-### Develop
+### Develop   : Demo
 Start a hot-reloading development environment accessible at `localhost:8000`
 ```shell
+yarn install
 yarn start
 ```
 
